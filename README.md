@@ -2,6 +2,10 @@
 
 ## What
 
+### hello_world
+
+Prints "Hello!" every second to demonstrate the most basic Mirage unikernel.
+
 ### ap_dhcp
 
 This unikernel creates a wifi access point on which up to 4 devices can connect (ESP32 driver limit). 
